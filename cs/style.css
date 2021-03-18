@@ -1,0 +1,42 @@
+body{
+	font-size: 30px;
+	font-weight: 700;
+
+}
+.header{ 
+	background-color: teal;
+}
+.box{
+	margin: 10px 0;
+	color: white;
+	font-size: 30px;
+	min-height: 80px;
+	background-color: red;
+	border: 5px solid green;
+}
+.hero{
+	background-color: teal;
+	margin: 10px 0;
+}
+.box2{
+
+	margin: 10px 0;
+	color:white;
+	min-height: 80px;
+	background-color: yellow;
+	border: 5px solid blue;
+}
+.red{
+	background-color: lime;
+	border: 5px solid grey;
+}
+.body{
+	margin: 10px 0;
+	background-color: teal;
+}
+.bar{
+	background-color: teal;
+}
+.footer{
+	background-color: teal;
+}
